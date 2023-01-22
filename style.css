@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background-color: black;
+    color: #fdfdfd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container h1{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 30px;
+    
+}
+.alert-msg {
+    padding: 10px 15px;
+    text-align: center;
+    background: #fcc817;
+    color: #fdfdfd;
+    font-weight: 900;
+    font-size: larger;
+}
+.deals {
+    padding: 40px;
+    color: rgb(226, 185, 38);
+    background-color: black;
+}
+.deals b{
+    text-decoration: underline;
+    
+}
+.deals li a{
+    text-decoration: none;
+    color: #fdfdfd;
+    font-family: 'Times New Roman', Times, serif;
+}
+.body{
+    padding-left: 30px;
+    color: rgb(226, 185, 38);
+    background-color: black;
+}
+p {
+    padding: 4px;
+}
+.footer{
+    padding: 40px;
+    color: #fdfdfd;
+    background-color: black;
+}
